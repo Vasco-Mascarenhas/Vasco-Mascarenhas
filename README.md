@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Vasco Mascarenhas</h1>
 <h3 align="center">A self taught Frontend Developer</h3>
 
-- I’m currently working on [Pokemon Info](https://github.com/Vasco-Mascarenhas/pokemon-Info)
+- I’m currently working on [Pokemon Info](https://github.com/Vasco-Mascarenhas/pokemon-Info) and thinking on how i can improve it
 
 - I’m currently learning **Javascript and React**
 
