@@ -5,7 +5,7 @@
 
 - I’m currently learning **Javascript and React**
 
-- How to reach me **vasco.mascarenhas@hotmail.com**
+- How to reach me [here](mailto:vasco.mascarenhas@hotmail.com)
 
 
 <h3 align="left">Languages and Tools:</h3>
